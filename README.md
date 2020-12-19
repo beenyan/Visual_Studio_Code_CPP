@@ -19,7 +19,7 @@
         * 右鍵**This PC**`我的電腦`<br>
         * 左鍵**Properties**`內容`<br>
     * <img src="/image/環境建構教學01.png" width="400px"><br>
-    2. 點擊**Advanced system settings**`進階系統設定`
+    2. 點擊**Advanced system settings**`進階系統設定`<br>
     <img src="/image/環境建構教學02.png" width="400px"><br>
-    2. 點擊**Environment Variables**`環境設定`
+    2. 點擊**Environment Variables**`環境設定`<br>
     <img src="/image/環境建構教學03.png" width="400px"><br>
