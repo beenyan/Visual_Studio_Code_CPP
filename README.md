@@ -1,5 +1,5 @@
 # Visual Studio Code C++ 安裝教學
-<h2>1. <a href="https://code.visualstudio.com/">安裝Visual Studio Code</a><h2><br>
+<h2>1. <a href="https://code.visualstudio.com/">安裝Visual Studio Code</a></h2><br>
 <img src="/image/VSCode下載頁面.png" width="400px"><br>
 2. <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">下載MinGW-w64</a><br>
 <img src="/image/MinGW下載頁面.png" width="400px"><br>
