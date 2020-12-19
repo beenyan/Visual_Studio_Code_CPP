@@ -7,7 +7,7 @@
     1. 打開下載的MinGW-w64<br>
     <img src="/image/MinGW下載教學01.png" width="400px"><br>
     2. 更改Architecture<br>
-       * `32位元：i686`<brs>
+       * `32位元：i686`<br>
        * `64位元：x86_64`<br>
     * <img src="/image/MinGW下載教學02.png" width="400px"><br>
     3. 更改路徑為 ***C:\Mingw64*** `方便後續作業`<br>
