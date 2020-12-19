@@ -23,5 +23,3 @@
     <img src="/image/環境建構教學02.png" width="400px"><br>
     2. 點擊*Environment Variables*`環境設定`
     <img src="/image/環境建構教學03.png" width="400px"><br>
-    
-    
