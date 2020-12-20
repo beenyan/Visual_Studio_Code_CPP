@@ -41,18 +41,18 @@
 3. 新建 C++ 檔案<br>
     <img src="/image/C++檔案.png" width="400px"><br>
 ## 6. 最後一步
-1. 執行環境
-* 按 `F1`
-* 輸入 `C/C++: Edit Configurations (UI)`
-* 點擊 `C/C++: Edit Configurations (UI)`
+1. 執行環境<br>
+* 按 `F1`<br>
+* 輸入 `C/C++: Edit Configurations (UI)`<br>
+* 點擊 `C/C++: Edit Configurations (UI)`<br>
     <img src="/image/執行環境01.png" width="400px"><br>
-* **Configuration name**:`Win32`
-* **Compiler path**:`C:/Mingw64/mingw64/bin/g++.exe`
-* **IntelliSense mode**:`gcc-x64`
+* **Configuration name**:`Win32`<br>
+* **Compiler path**:`C:/Mingw64/mingw64/bin/g++.exe`<br>
+* **IntelliSense mode**:`gcc-x64`<br>
     <img src="/image/執行環境02.png" width="400px"><br>
-2. 開始執行 C++
-* 設定`中斷點`
-* 按 `F5`
-* 選擇 `C++(GDB/LLDB)`
+2. 開始執行 C++<br>
+* 設定`中斷點`<br>
+* 按 `F5`<br>
+* 選擇 `C++(GDB/LLDB)`<br>
     <img src="/image/開始執行01.png" width="400px"><br>
     <img src="/image/開始執行02.png" width="400px"><br>
