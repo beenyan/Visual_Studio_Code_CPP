@@ -34,5 +34,5 @@
 6. **重啟Visual Studio Code**<br>
 ## 5. 建構執行位置
 1. 建立資料夾 `建議在桌面`
-2. 用 **Visual Studio Code** 開啟**資料夾** `資料夾拖曳至Visual Studio Code`
+2. 用 **Visual Studio Code** 開啟**資料夾** `資料夾拖曳至 Visual Studio Code`
 3. 新建 C++ 檔案
