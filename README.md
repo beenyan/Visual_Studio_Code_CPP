@@ -46,9 +46,9 @@
 * 輸入 `C/C++: Edit Configurations (UI)`<br>
 * 點擊 `C/C++: Edit Configurations (UI)`<br>
     <img src="/image/執行環境01.png" width="400px"><br>
-* **Configuration name**:`Win32`<br>
-* **Compiler path**:`C:/Mingw64/mingw64/bin/g++.exe`<br>
-* **IntelliSense mode**:`gcc-x64`<br>
+* **Configuration name**：`Win32`<br>
+* **Compiler path**：`C:/Mingw64/mingw64/bin/g++.exe`<br>
+* **IntelliSense mode**：`gcc-x64`<br>
     <img src="/image/執行環境02.png" width="400px"><br>
 2. 開始執行 C++<br>
 * 設定`中斷點`<br>
