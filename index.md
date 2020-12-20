@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/beenyan/Visual_Studio_Code_CPP/main/image/VSCode下載頁面.png" width="400px"><br>
 
 ## 2. <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">下載 MinGW-w64</a>
-<img src="MinGW下載頁面.png" width="400px"><br>
+<img src="https://raw.githubusercontent.com/beenyan/Visual_Studio_Code_CPP/main/image/MinGW下載頁面.png" width="400px"><br>
 
 ## 3. 安裝 MinGW-w64
 1. 打開下載的 MinGW-w64<br>
