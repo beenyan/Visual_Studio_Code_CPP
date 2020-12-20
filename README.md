@@ -40,3 +40,19 @@
     <img src="/image/Vscode 打開資料夾教學03.png" width="400px"><br>
 3. 新建 C++ 檔案<br>
     <img src="/image/C++檔案.png" width="400px"><br>
+## 6. 最後一步
+1. 執行環境
+* 按 `F1`
+* 輸入 `C/C++: Edit Configurations (UI)`
+* 點擊 `C/C++: Edit Configurations (UI)`
+    <img src="/image/執行環境01.png" width="400px"><br>
+* **Configuration name**:`Win32`
+* **Compiler path**:`C:/Mingw64/mingw64/bin/g++.exe`
+* **IntelliSense mode**:`gcc-x64`
+    <img src="/image/執行環境02.png" width="400px"><br>
+2. 開始執行 C++
+* 設定`中斷點`
+* 按 `F5`
+* 選擇 `C++(GDB/LLDB)`
+    <img src="/image/開始執行01.png" width="400px"><br>
+    <img src="/image/開始執行02.png" width="400px"><br>
