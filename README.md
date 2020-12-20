@@ -39,3 +39,4 @@
     <img src="/image/Vscode 打開資料夾教學02.png" width="400px"><br>
     <img src="/image/Vscode 打開資料夾教學03.png" width="400px"><br>
 3. 新建 C++ 檔案<br>
+    <img src="/image/C++檔案.png" width="400px"><br>
