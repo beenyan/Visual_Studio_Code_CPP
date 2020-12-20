@@ -29,7 +29,7 @@
     <img src="/image/環境建構教學03.png" width="300px"><br>
 4. 點擊系統變數裡的 **Path** `路境`，在點擊 **Edit** `修改`<br>
     <img src="/image/環境建構教學04.png" width="300px"><br>
-5. 點擊 **New** `新增`，輸入 ***C:\Mingw64\mingw64\bin*** `第三大步建立的位置`<br>
+5. 點擊 **New** `新增`，輸入 ***C:\Mingw64\mingw64\bin*** `3-3建立的位置`<br>
     <img src="/image/環境建構教學05.png" width="300px"><br>
 6. **重啟 Visual Studio Code**<br>
 ## 5. 建構執行位置
