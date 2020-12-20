@@ -32,7 +32,7 @@
 5. 點擊 **New** `新增`，輸入 ***C:\Mingw64\mingw64\bin*** `3-3建立的位置`<br>
     <img src="/image/環境建構教學05.png" width="300px"><br>
 6. **重啟 Visual Studio Code**<br>
-## 5. 建構執行位置
+## 6. 建構執行位置
 1. 建立資料夾 `建議在桌面`
 2. 用 **Visual Studio Code** 開啟**資料夾** `資料夾拖曳至 Visual Studio Code`<br>
     <img src="/image/Vscode 打開資料夾教學01.png" width="400px"><br>
@@ -40,7 +40,7 @@
     <img src="/image/Vscode 打開資料夾教學03.png" width="400px"><br>
 3. 新建 C++ 檔案<br>
     <img src="/image/C++檔案.png" width="400px"><br>
-## 6. 最後一步
+## 7. 最後一步
 1. 執行環境<br>
 * 按 `F1`<br>
 * 輸入 `C/C++: Edit Configurations (UI)`<br>
