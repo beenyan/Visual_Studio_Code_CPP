@@ -31,7 +31,7 @@
     <img src="/image/環境建構教學04.png" width="300px"><br>
 5. 點擊 **New** `新增`，輸入 ***C:\Mingw64\mingw64\bin*** `第三大步建立的位置`<br>
     <img src="/image/環境建構教學05.png" width="300px"><br>
-6. **重啟Visual Studio Code**<br>
+6. **重啟 Visual Studio Code**<br>
 ## 5. 建構執行位置
 1. 建立資料夾 `建議在桌面`
 2. 用 **Visual Studio Code** 開啟**資料夾** `資料夾拖曳至 Visual Studio Code`
