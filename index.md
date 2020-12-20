@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Visual Studio Code C++ 安裝教學
+## 1. <a href="https://code.visualstudio.com/">安裝 Visual Studio Code</a>
+<img src="/image/VSCode下載頁面.png" width="400px"><br>
 
-You can use the [editor on GitHub](https://github.com/beenyan/VSCode_With_CPP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 2. <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">下載 MinGW-w64</a>
+<img src="/image/MinGW下載頁面.png" width="400px"><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 3. 安裝 MinGW-w64
+1. 打開下載的 MinGW-w64<br>
+    <img src="/image/MinGW下載教學01.png" width="400px"><br>
+2. 更改 Architecture<br>
+    * `32位元：i686`<br>
+    * `64位元：x86_64`<br>
+* <img src="/image/MinGW下載教學02.png" width="400px"><br>
+3. 更改路徑為 ***C:\Mingw64*** `方便後續作業`<br>
+<img src="/image/MinGW下載教學03.png" width="400px"><br>
 
-### Markdown
+## 4. 安裝 Visual Stduio Code 裡的 **C/C++**
+<img src="/image/VSCode C++安裝教學.png" width="400px"><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beenyan/VSCode_With_CPP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 5. 建構環境
+1. 打開 **File Explorer** `檔案總管`<br>
+    * 右鍵 **This PC** `我的電腦`<br>
+    * 左鍵 **Properties** `內容`<br>
+* <img src="/image/環境建構教學01.png" width="400px"><br>
+2. 點擊 **Advanced system settings** `進階系統設定`<br>
+    <img src="/image/環境建構教學02.png" width="400px"><br>
+3. 點擊 **Environment Variables** `環境設定`<br>
+    <img src="/image/環境建構教學03.png" width="300px"><br>
+4. 點擊系統變數裡的 **Path** `路境`，在點擊 **Edit** `修改`<br>
+    <img src="/image/環境建構教學04.png" width="300px"><br>
+5. 點擊 **New** `新增`，輸入 ***C:\Mingw64\mingw64\bin*** `3-3建立的位置`<br>
+    <img src="/image/環境建構教學05.png" width="300px"><br>
+6. **重啟 Visual Studio Code**<br>
+## 6. 建構執行位置
+1. 建立資料夾 `建議在桌面`
+2. 用 **Visual Studio Code** 開啟**資料夾** `資料夾拖曳至 Visual Studio Code`<br>
+    <img src="/image/Vscode 打開資料夾教學01.png" width="400px"><br>
+    <img src="/image/Vscode 打開資料夾教學02.png" width="400px"><br>
+    <img src="/image/Vscode 打開資料夾教學03.png" width="400px"><br>
+3. 新建 C++ 檔案<br>
+    <img src="/image/C++檔案.png" width="400px"><br>
+## 7. 最後一步
+1. 執行環境<br>
+* 按 `F1`<br>
+* 輸入 `C/C++: Edit Configurations (UI)`<br>
+* 點擊 `C/C++: Edit Configurations (UI)`<br>
+    <img src="/image/執行環境01.png" width="400px"><br>
+* **Configuration name**：`Win32`<br>
+* **Compiler path**：`C:/Mingw64/mingw64/bin/g++.exe`<br>
+* **IntelliSense mode**：`gcc-x64`<br>
+    <img src="/image/執行環境02.png" width="400px"><br>
+2. 開始執行 C++<br>
+* 設定`中斷點`<br>
+* 按 `F5`<br>
+* 選擇 `C++(GDB/LLDB)`<br>
+    <img src="/image/開始執行01.png" width="400px"><br>
+    <img src="/image/開始執行02.png" width="400px"><br>
